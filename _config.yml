@@ -1,6 +1,6 @@
 title: "My Blog"
 author: "Tom Castro"
-description: "Made with <b style=\"color: #f45;\">&lt;3</b>"
+description: "Tom Castro's personal website. Thoughts, Notes, Coding, and Updates" 
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
