@@ -2,18 +2,16 @@
 title: "About"
 permalink: "/about/"
 layout: page
----
+--- 
 
-# About 
-
-## What i do 
+# What i do 
 
 I don't know but in general terms i'm an artist and a programmer interested in 
 deloping games.
 
-## What i know 
+# What i know 
 
-### Programming 
+## Programming 
 
 * C++
 * C 
@@ -30,7 +28,7 @@ deloping games.
 * Clay Sculpting
 * Multidisciplinary Artist
 
-## What i like to read 
+# What i like to read 
 
 I like to read paper about the easthetics on videogames, videogames studies, computer graphics, and the constand evolving artification on videogames.
 
