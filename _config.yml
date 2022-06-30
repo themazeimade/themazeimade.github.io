@@ -1,6 +1,6 @@
 title: "My Blog"
 author: "Tom Castro"
-description: "Tom Castro's personal website. Thoughts, Notes, Coding, and Updates" 
+description: "Tom Castro's personal website. Thoughts, Notes, Coding, and Updates." 
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
