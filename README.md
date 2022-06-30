@@ -4,9 +4,9 @@ permalink: "/about/"
 layout: page
 ---
 
-#About 
+# About 
 
-##What i do 
+## What i do 
 
 I don't know but in general terms i'm an artist and a programmer interested in 
 deloping games.
