@@ -71,11 +71,13 @@ sin trabajo"
 * "mood urbano bajo, moral baja y poca energía"
 * "no hay tiempo NO HAY TIEMPO - dice un transeunte al ver que está tarde" Pequeñas
 * expresiones de una modernidad apurada.
+
 ##### Malecón
 * Turistas.
 * Bañistas.
 * "Erosión de la costa desanima el uso de playas"
 * "Contaminación de las pesqueras industriales"
+
 ##### Centro
 * Plaza
 * "personas hablando en la bancas, caminando, la escena cotidiana en su máxima
@@ -84,18 +86,22 @@ sin trabajo"
 * "feligreses siendo feligreses"
 * "la parroquia tuvo que hacer una panaderia para subsistir, ahora es un lugar
   céntrico de consumo de comida, y de charla"
+
 ##### Muelle
 * Percadores artesanales
 * "No hay pescados y tienen que alejarse cada vez más de la costa"
+
 ##### Desierto
 * Arqueólogos
 * "no podemos desarrollar ni investigar por falta de dinero y apoyo"
 * "son foráneos pero tienen un interés particular en el sitio lo cual los hace
 conectarse con una cultura de preservación"
+
 ##### Puerto
 * Ambientalistas -> Haciendo lo suyo en la reja/entrada del puerto.
 * Obreros, Management y el JEFASO (GRUPO).
 * THE BOSS (villano). 
+
 ##### Grúa
 * Operador de grúa.
 * "tuvo un accidente y no le pagaron"
