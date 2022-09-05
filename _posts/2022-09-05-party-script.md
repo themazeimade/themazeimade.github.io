@@ -53,11 +53,15 @@ layout: post
      llegan a una conexión con el lugar de origen el cual debe de ser aclarado el
      ¿PORQUE? 
      EL AGUA HELDA ESTÄ
+     
 #### Reducción del movimiento del jugador:
-    * TORMENTA ????
+
+* TORMENTA ????
     * Tal vez con algunos objetos que el jugador puede adquirir mediante la tienda y
     * eventos de cada zona.
+
 #### EVENTOS PARTICULARES:
+
 ##### Calles del pueblo
      *  El pueblo
         "ya no llegan buques entonces la chatarra, metal, planchadores, cortadores, etc
