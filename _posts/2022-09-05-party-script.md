@@ -57,8 +57,8 @@ layout: post
 #### Reducción del movimiento del jugador:
 
 * TORMENTA ????
-    * Tal vez con algunos objetos que el jugador puede adquirir mediante la tienda y
-    * eventos de cada zona.
+* Tal vez con algunos objetos que el jugador puede adquirir mediante la tienda y
+* eventos de cada zona.
 
 #### EVENTOS PARTICULARES:
 
