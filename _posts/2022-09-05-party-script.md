@@ -52,7 +52,6 @@ layout: post
    * Los foráneos que no tiene un interés centrado en el la creación de capital directo
      llegan a una conexión con el lugar de origen el cual debe de ser aclarado el
      ¿PORQUE? 
-     EL AGUA HELDA ESTÄ
      
 #### Reducción del movimiento del jugador:
 
@@ -63,7 +62,9 @@ layout: post
 #### EVENTOS PARTICULARES:
 
 ##### Calles del pueblo
-*  El pueblo
+Las edificaciones del pueblo son coloridas, pueden tener mayólicas de patrones o tener pintura de color. Usualmente angostas y con 
+ventanas cuadradas. No mayor de 3 pisos y mayoritariamente de 3 pisos.
+* El pueblo.
 * "ya no llegan buques entonces la chatarra, metal, planchadores, cortadores, etc -> están 
 sin trabajo"
 * "el transporte de carga está bajo debido a la falta de buques"
