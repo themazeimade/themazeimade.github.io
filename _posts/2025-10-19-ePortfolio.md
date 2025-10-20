@@ -47,6 +47,8 @@ Finally, my artifact on databases initially involved the use of a publicly avail
 
 ## Artifact One: Software Design and Engineering.
 
+{% include embed.html url="https://www.youtube.com/embed/R_3AAnpJoCY" %}
+
 ### Compiling and use guide.
 
 Android Studio is required. Be sure to synchronize the project dependencies and use the API 36.
@@ -120,6 +122,8 @@ Here is a list of some of the related enhancements I implemented:
 
 Finally, the enhanced project still needs some polishing, as there are a few issues that need to be resolved, such as stuttering when the thread pool submits multiple tasks, and low-resolution rendering of the fractal on the GPU.
 ## Artifact Three: Databases.
+
+{% include embed.html url="https://www.youtube.com/embed/qVLP87AiuuQ" %}
 
 ### Compiling and use guide.
 
