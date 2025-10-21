@@ -89,7 +89,7 @@ There were many other design decisions that took longer to plan than to implemen
 
 ### Compiling and use guide.
 
-You need Visual Studio (stdc++17 or newer) with C++ integration. The required libraries are in inside the project.
+You need Visual Studio (stdc++17 or newer) with C++ integration. The required libraries are in inside the project. Libraries are x86 so configure build with this target.
 
 ### Narrative.
 
