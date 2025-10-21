@@ -85,6 +85,8 @@ There were many other design decisions that took longer to plan than to implemen
 
 ## Artifact Two: Algorithms and Data Structures.
 
+{% include embed.html url="https://www.youtube.com/embed/s1_XNuhiD3Q" %}
+
 ### Compiling and use guide.
 
 You need Visual Studio (stdc++17 or newer) with C++ integration. The required libraries are in inside the project.
@@ -124,7 +126,6 @@ Finally, the enhanced project still needs some polishing, as there are a few iss
 ## Artifact Three: Databases.
 
 {% include embed.html url="https://www.youtube.com/embed/qVLP87AiuuQ" %}
-
 ### Compiling and use guide.
 
 The project requires python3 and Jupyter Notebook or Lab.
